@@ -1,0 +1,25 @@
+{
+  "name": "excelcodes-elements",
+  "version": "1.0.0",
+  "description": "custom components from ExcelCodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RagabMabrouk/excelcodes-elements.git"
+  },
+  "keywords": [
+    "ExcelCodes",
+    "excelcodes-elements",
+    "elements",
+    "react-native-elements"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RagabMabrouk/excelcodes-elements/issues"
+  },
+  "homepage": "https://github.com/RagabMabrouk/excelcodes-elements#readme"
+}
